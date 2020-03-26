@@ -1,0 +1,3 @@
+[submodule "GitHubTestingLibrary"]
+	path = GitHubTestingLibrary
+	url = https://github.com/InternalDevelopers/GitHubTestingLibrary.git
